@@ -118,7 +118,6 @@ nav a:active {
 /* Portfolio gallery */
 .gallery-portfolio img {
   max-width: 100% !important;
-  min-width: 100%;
   display: block;
   border: none;
   padding: 0;
@@ -303,7 +302,7 @@ p {
   #nav ul li.home {
     width: 25%;
   }
- 
+
 
 }
 
@@ -361,8 +360,7 @@ p {
 }
 
 .lightbox {
-  width: 85%;
-
+  width: 87%;
 }
 
 
